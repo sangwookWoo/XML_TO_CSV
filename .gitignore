@@ -1,0 +1,11 @@
+/(1) 프로그램 설계도
+/0. METIS 적재 매뉴얼
+/2. 메타데이터 수집 및 매핑
+/3. 파일명 규칙 수립
+/4. 적재용 메타데이터
+/5. 분류체계 세팅
+/6. SDT 활용 적재
+/7. 기타
+/metis_distribution.csv
+/read_METISDB.ipynb
+/read_METISDB_resource.ipynb
